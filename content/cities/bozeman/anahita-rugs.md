@@ -1,0 +1,4 @@
+---
+title: "Anahita Rugs"
+url: /bozeman/anahita-rugs/
+---
