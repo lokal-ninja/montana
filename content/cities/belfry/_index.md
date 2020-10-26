@@ -1,6 +1,6 @@
 ---
 title: Belfry
 url: /belfry/
-latitude: 45.1418915
-longitude: -109.0054219
+latitude: 45.142986500000006
+longitude: -109.0085502
 ---

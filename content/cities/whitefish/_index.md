@@ -1,6 +1,6 @@
 ---
 title: Whitefish
 url: /whitefish/
-latitude: 48.410796600000005
-longitude: -114.33462650000001
+latitude: 48.4108018
+longitude: -114.3346245
 ---
