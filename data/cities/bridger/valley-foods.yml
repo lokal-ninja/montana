@@ -1,6 +1,5 @@
 id: 8153252415
 type: node
-shop: supermarket
 latitude: 45.296013300000006
 longitude: -108.91375900000001
 postcode: "59014"
@@ -8,5 +7,5 @@ city: Bridger
 street: "North Main Street"
 housenumber: 105
 phone: "(406) 662-3591"
-opening_hours: "Mo-Sa 8am-8pm & Su 9am-7pm"
+opening_hours: "Mo-Sa 08:00-20:00, Su 09:00-19:00"
 website: "http://valley-foods.edan.io/"

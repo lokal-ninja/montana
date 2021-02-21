@@ -1,6 +1,5 @@
 id: 4317575878
 type: node
-shop: copyshop
 latitude: 45.6716886
 longitude: -111.05150610000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Bozeman
 street: "West College Street"
 housenumber: 1013
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00"
 website: ""
