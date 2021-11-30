@@ -1,5 +1,5 @@
 ---
 title: "Suelto Botique"
 url: /bozeman/suelto-botique/
-shop: shop
+shop: clothes
 ---
