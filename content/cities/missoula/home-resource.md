@@ -1,5 +1,5 @@
 ---
 title: "Home ReSource"
 url: /missoula/home-resource/
-shop: doityourself
+shop: hardware
 ---
