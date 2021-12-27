@@ -1,5 +1,5 @@
 ---
 title: "Hungry Moose"
 url: /big-sky/hungry-moose/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

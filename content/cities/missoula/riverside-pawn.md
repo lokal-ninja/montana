@@ -1,5 +1,5 @@
 ---
 title: "Riverside Pawn"
 url: /missoula/riverside-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Yellowstone
 url: /west-yellowstone/
-latitude: 
-longitude: 
+latitude: 44.661
+longitude: -111.1
 ---

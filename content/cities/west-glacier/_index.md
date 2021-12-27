@@ -1,6 +1,6 @@
 ---
 title: West Glacier
 url: /west-glacier/
-latitude: 48.4963369
-longitude: -113.982443
+latitude: 48.482
+longitude: -114
 ---

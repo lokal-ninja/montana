@@ -1,5 +1,5 @@
 ---
 title: "The Rock"
 url: /bozeman/the-rock/
-shop: coffee
+shop: Kaffee
 ---

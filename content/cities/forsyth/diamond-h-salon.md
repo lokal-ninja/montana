@@ -1,5 +1,5 @@
 ---
 title: "Diamond H Salon"
 url: /forsyth/diamond-h-salon/
-shop: hairdresser
+shop: Friseur
 ---

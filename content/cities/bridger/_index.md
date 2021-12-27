@@ -1,6 +1,6 @@
 ---
 title: Bridger
 url: /bridger/
-latitude: 45.2957807
-longitude: -108.9137544
+latitude: 45.296
+longitude: -108.914
 ---

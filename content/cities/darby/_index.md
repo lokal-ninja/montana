@@ -1,6 +1,6 @@
 ---
 title: Darby
 url: /darby/
-latitude: 46.022659000000004
-longitude: -114.178093
+latitude: 46.029
+longitude: -114.179
 ---

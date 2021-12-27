@@ -1,5 +1,5 @@
 ---
 title: "Cello"
 url: /bozeman/cello/
-shop: art
+shop: Kunst
 ---

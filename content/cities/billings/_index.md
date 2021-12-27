@@ -1,6 +1,6 @@
 ---
 title: Billings
 url: /billings/
-latitude: 45.7874957
-longitude: -108.49607
+latitude: 45.785
+longitude: -108.593
 ---

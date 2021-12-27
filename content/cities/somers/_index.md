@@ -1,6 +1,6 @@
 ---
 title: Somers
 url: /somers/
-latitude: 48.0802312
-longitude: -114.2215122
+latitude: 48.095
+longitude: -114.232
 ---

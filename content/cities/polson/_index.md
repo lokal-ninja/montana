@@ -1,6 +1,6 @@
 ---
 title: Polson
 url: /polson/
-latitude: 47.690529500000004
-longitude: -114.16376100000001
+latitude: 47.694
+longitude: -114.162
 ---

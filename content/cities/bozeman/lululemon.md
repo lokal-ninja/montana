@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /bozeman/lululemon/
-shop: clothes
+shop: Kleidung
 ---

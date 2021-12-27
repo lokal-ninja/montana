@@ -1,6 +1,6 @@
 ---
 title: Deer Lodge
 url: /deer-lodge/
-latitude: 46.075379500000004
-longitude: -113.08933200000001
+latitude: 46.391
+longitude: -112.735
 ---

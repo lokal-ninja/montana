@@ -1,6 +1,6 @@
 ---
 title: Winnett
 url: /winnett/
-latitude: 47.0027521
-longitude: -108.352271
+latitude: 47.004
+longitude: -108.352
 ---

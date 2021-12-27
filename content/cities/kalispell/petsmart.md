@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /kalispell/petsmart/
-shop: pet
+shop: Tiere
 ---

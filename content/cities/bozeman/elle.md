@@ -1,5 +1,5 @@
 ---
 title: "Elle"
 url: /bozeman/elle/
-shop: beauty
+shop: Kosmetik
 ---

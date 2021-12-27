@@ -1,6 +1,6 @@
 ---
 title: Anaconda
 url: /anaconda/
-latitude: 46.1294685
-longitude: -112.95313100000001
+latitude: 46.127
+longitude: -112.935
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Root"
 url: /bozeman/the-root/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleur Bake Shop"
 url: /whitefish/fleur-bake-shop/
-shop: bakery
+shop: Bäckerei
 ---

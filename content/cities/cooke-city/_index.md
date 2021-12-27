@@ -1,6 +1,6 @@
 ---
 title: Cooke City
 url: /cooke-city/
-latitude: 45.020038
-longitude: -109.933599
+latitude: 45.02
+longitude: -109.932
 ---

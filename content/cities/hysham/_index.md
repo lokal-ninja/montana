@@ -1,6 +1,6 @@
 ---
 title: Hysham
 url: /hysham/
-latitude: 46.2913623
-longitude: -107.2315145
+latitude: 46.293
+longitude: -107.236
 ---

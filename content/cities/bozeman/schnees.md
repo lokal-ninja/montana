@@ -1,5 +1,5 @@
 ---
 title: "Schnee's"
 url: /bozeman/schnees/
-shop: outdoor
+shop: Outdoor
 ---
