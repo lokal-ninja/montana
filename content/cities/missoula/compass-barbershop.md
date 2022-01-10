@@ -1,5 +1,5 @@
 ---
 title: "Compass Barbershop"
 url: /missoula/compass-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

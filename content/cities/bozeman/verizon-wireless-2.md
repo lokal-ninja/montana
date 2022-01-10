@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /bozeman/verizon-wireless-2/
-shop: Handy
+shop: mobile phone
 ---

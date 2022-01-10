@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /billings/petsmart/
-shop: Tiere
+shop: pet
 ---

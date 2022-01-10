@@ -1,5 +1,5 @@
 ---
 title: "EZ Auto"
 url: /bozeman/ez-auto/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corx"
 url: /bozeman/corx/
-shop: Wein
+shop: wine
 ---

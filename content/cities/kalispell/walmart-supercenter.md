@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /kalispell/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

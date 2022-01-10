@@ -1,5 +1,5 @@
 ---
 title: "Chalet Sports"
 url: /bozeman/chalet-sports/
-shop: Outdoor
+shop: outdoor
 ---

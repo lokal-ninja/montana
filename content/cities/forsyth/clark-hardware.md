@@ -1,5 +1,5 @@
 ---
 title: "Clark Hardware"
 url: /forsyth/clark-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

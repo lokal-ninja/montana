@@ -1,5 +1,5 @@
 ---
 title: "Fleet Supply"
 url: /lewistown/fleet-supply/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

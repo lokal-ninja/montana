@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /kalispell/petco/
-shop: Tiere
+shop: pet
 ---

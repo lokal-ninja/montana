@@ -1,5 +1,5 @@
 ---
 title: "Columbus IGA Plus"
 url: /columbus/columbus-iga-plus/
-shop: Supermarkt
+shop: supermarket
 ---

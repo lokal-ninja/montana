@@ -1,5 +1,5 @@
 ---
 title: "Brence's Service"
 url: /bozeman/brences-service/
-shop: Autowerkstatt
+shop: car repair
 ---

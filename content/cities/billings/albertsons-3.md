@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /billings/albertsons-3/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dawn Josephine"
 url: /bozeman/dawn-josephine/
-shop: Schmuck
+shop: jewelry
 ---

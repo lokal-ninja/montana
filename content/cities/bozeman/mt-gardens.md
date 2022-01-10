@@ -1,5 +1,5 @@
 ---
 title: "MT Gardens"
 url: /bozeman/mt-gardens/
-shop: Garten-Center
+shop: garden centre
 ---

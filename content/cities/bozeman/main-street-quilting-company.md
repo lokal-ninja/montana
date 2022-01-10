@@ -1,5 +1,5 @@
 ---
 title: "Main Street Quilting Company"
 url: /bozeman/main-street-quilting-company/
-shop: Textil
+shop: fabric
 ---

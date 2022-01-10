@@ -1,5 +1,5 @@
 ---
 title: "Cosmic World Boutique"
 url: /bozeman/cosmic-world-boutique/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Clothesline"
 url: /bozeman/the-clothesline/
-shop: Wäscherei
+shop: laundry
 ---

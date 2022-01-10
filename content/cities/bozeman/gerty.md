@@ -1,5 +1,5 @@
 ---
 title: "Gerty"
 url: /bozeman/gerty/
-shop: Kleidung
+shop: clothes
 ---

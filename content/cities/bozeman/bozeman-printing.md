@@ -1,5 +1,5 @@
 ---
 title: "Bozeman Printing"
 url: /bozeman/bozeman-printing/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /great-falls/walmart-supercenter-2/
-shop: Supermarkt
+shop: supermarket
 ---

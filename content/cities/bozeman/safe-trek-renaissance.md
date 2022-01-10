@@ -1,5 +1,5 @@
 ---
 title: "Safe-Trek Renaissance"
 url: /bozeman/safe-trek-renaissance/
-shop: Schmuck
+shop: jewelry
 ---

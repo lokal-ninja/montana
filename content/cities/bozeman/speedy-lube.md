@@ -1,5 +1,5 @@
 ---
 title: "Speedy Lube"
 url: /bozeman/speedy-lube/
-shop: Autowerkstatt
+shop: car repair
 ---

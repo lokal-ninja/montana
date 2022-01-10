@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /billings/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Outfitter"
 url: /kalispell/rocky-mountain-outfitter/
-shop: Sport
+shop: sports
 ---

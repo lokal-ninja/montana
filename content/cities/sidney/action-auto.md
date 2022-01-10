@@ -1,5 +1,5 @@
 ---
 title: "Action Auto"
 url: /sidney/action-auto/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /lewistown/carquest/
-shop: Autoteile
+shop: car parts
 ---

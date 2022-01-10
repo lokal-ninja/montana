@@ -1,5 +1,5 @@
 ---
 title: "Missoula Fresh Market"
 url: /missoula/missoula-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

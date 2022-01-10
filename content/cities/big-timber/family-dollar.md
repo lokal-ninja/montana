@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /big-timber/family-dollar/
-shop: Kramladen
+shop: variety store
 ---
