@@ -1,6 +1,6 @@
 ---
 title: Jordan
 url: /jordan/
-latitude: 47.321
-longitude: -106.911
+latitude: 47.32
+longitude: -106.912
 ---
