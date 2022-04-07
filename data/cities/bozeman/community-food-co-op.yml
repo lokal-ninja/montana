@@ -1,11 +1,11 @@
-id: 397720866
-type: way
-latitude: 45.67894
-longitude: -111.04948
-postcode: ""
+id: 9620972306
+type: node
+latitude: 45.67906
+longitude: -111.04992
+postcode: "59715"
 city: Bozeman
 street: "West Main Street"
 housenumber: 908
-phone: "+1 406-587-4039"
-opening_hours: ""
-website: "https://www.bozo.coop"
+phone: "406-587-4039"
+opening_hours: "Mo-Su 09:00-21:00"
+website: "https://www.bozo.coop/"
