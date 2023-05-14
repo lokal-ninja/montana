@@ -1,6 +1,6 @@
 ---
 title: Forsyth
 url: /forsyth/
-latitude: 46.267
-longitude: -106.68
+latitude: 46.265
+longitude: -106.675
 ---
