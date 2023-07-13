@@ -1,6 +1,6 @@
 ---
 title: Colstrip
 url: /colstrip/
-latitude: 45.881
-longitude: -106.629
+latitude: 45.884
+longitude: -106.626
 ---
