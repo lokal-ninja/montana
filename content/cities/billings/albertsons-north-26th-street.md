@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /billings/albertsons/
+url: /billings/albertsons-north-26th-street/
 shop: supermarket
 ---

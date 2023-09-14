@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
-url: /butte/safeway/
+url: /butte/safeway-massachusetts-avenue/
 shop: supermarket
 ---
