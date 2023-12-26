@@ -1,5 +1,5 @@
 ---
-title: "Napa Autoparts"
+title: "NAPA Autoparts"
 url: /fort-benton/napa-autoparts/
 shop: hardware
 ---
