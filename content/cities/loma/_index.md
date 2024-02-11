@@ -1,6 +1,6 @@
 ---
 title: Loma
 url: /loma/
-latitude: 47.936
-longitude: -110.506
+latitude: 48.015
+longitude: -110.249
 ---
