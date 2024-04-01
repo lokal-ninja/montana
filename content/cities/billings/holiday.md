@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
-url: /great-falls/holiday-fox-farm-road/
+url: /billings/holiday/
 shop: convenience
 ---
