@@ -1,6 +1,6 @@
 ---
 title: Miles City
 url: /miles-city/
-latitude: 46.404
-longitude: -105.819
+latitude: 46.403
+longitude: -105.824
 ---
