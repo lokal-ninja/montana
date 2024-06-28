@@ -1,6 +1,6 @@
 ---
 title: Fort Benton
 url: /fort-benton/
-latitude: 47.817
-longitude: -110.669
+latitude: 47.819
+longitude: -110.705
 ---
