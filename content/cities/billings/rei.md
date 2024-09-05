@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /billings/rei/
-shop: outdoor
+shop: Outdoor
 ---

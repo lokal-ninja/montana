@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /missoula/michaels/
-shop: craft
+shop: Basteln
 ---

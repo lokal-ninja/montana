@@ -1,5 +1,5 @@
 ---
 title: "CHEF'STORE"
 url: /missoula/chefstore/
-shop: wholesale
+shop: Großhandel
 ---

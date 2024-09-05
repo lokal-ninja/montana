@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /bozeman/petco/
-shop: pet
+shop: Tiere
 ---

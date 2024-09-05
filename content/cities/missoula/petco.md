@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /missoula/petco/
-shop: pet
+shop: Tiere
 ---

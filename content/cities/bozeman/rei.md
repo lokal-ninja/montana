@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /bozeman/rei/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valley Farmers Supply"
 url: /hysham/valley-farmers-supply/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

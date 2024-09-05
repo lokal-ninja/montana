@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /bozeman/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

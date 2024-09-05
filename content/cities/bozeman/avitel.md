@@ -1,5 +1,5 @@
 ---
 title: "Avitel"
 url: /bozeman/avitel/
-shop: electronics
+shop: Elektronik
 ---

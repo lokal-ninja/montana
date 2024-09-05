@@ -1,5 +1,5 @@
 ---
 title: "Noon's"
 url: /missoula/noons/
-shop: convenience
+shop: Lebensmittel
 ---

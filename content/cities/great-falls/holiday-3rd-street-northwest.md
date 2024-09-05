@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /great-falls/holiday-3rd-street-northwest/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heist"
 url: /red-lodge/heist/
-shop: gift
+shop: Andenken
 ---

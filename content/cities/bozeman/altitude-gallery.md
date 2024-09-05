@@ -1,5 +1,5 @@
 ---
 title: "Altitude Gallery"
 url: /bozeman/altitude-gallery/
-shop: art
+shop: Kunst
 ---

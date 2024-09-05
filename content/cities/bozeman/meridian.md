@@ -1,5 +1,5 @@
 ---
 title: "Meridian"
 url: /bozeman/meridian/
-shop: clothes
+shop: Kleidung
 ---

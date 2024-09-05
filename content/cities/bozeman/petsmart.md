@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /bozeman/petsmart/
-shop: pet
+shop: Tiere
 ---

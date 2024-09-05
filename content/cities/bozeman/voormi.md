@@ -1,5 +1,5 @@
 ---
 title: "Voormi"
 url: /bozeman/voormi/
-shop: clothes
+shop: Kleidung
 ---

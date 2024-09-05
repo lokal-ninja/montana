@@ -1,5 +1,5 @@
 ---
 title: "Fresh Start Cooperative"
 url: /geraldine/fresh-start-cooperative/
-shop: supermarket
+shop: Supermarkt
 ---

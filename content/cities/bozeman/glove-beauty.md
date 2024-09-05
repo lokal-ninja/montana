@@ -1,5 +1,5 @@
 ---
 title: "Glove Beauty"
 url: /bozeman/glove-beauty/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /missoula/petsmart/
-shop: pet
+shop: Tiere
 ---

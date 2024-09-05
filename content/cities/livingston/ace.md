@@ -1,5 +1,5 @@
 ---
 title: "Ace"
 url: /livingston/ace/
-shop: hardware
+shop: Eisenwaren
 ---

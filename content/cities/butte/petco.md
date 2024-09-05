@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /butte/petco/
-shop: pet
+shop: Tiere
 ---

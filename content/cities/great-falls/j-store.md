@@ -1,5 +1,5 @@
 ---
 title: "J Store"
 url: /great-falls/j-store/
-shop: convenience
+shop: Lebensmittel
 ---

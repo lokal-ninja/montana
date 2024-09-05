@@ -1,5 +1,5 @@
 ---
 title: "Empire Building Materials"
 url: /bozeman/empire-building-materials/
-shop: hardware
+shop: Eisenwaren
 ---

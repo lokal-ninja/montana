@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /wolf-point/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---
