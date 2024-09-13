@@ -1,5 +1,5 @@
 ---
 title: "Rosebud Foods"
 url: /colstrip/rosebud-foods/
-shop: Supermarkt
+shop: supermarket
 ---

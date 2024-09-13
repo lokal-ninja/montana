@@ -1,5 +1,5 @@
 ---
 title: "Candy Town US"
 url: /billings/candy-town-us/
-shop: Süßwaren
+shop: confectionery
 ---

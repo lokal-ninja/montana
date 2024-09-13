@@ -1,5 +1,5 @@
 ---
 title: "Town Pump"
 url: /great-falls/town-pump/
-shop: Lebensmittel
+shop: convenience
 ---

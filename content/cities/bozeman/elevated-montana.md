@@ -1,5 +1,5 @@
 ---
 title: "Elevated Montana"
 url: /bozeman/elevated-montana/
-shop: Hanf
+shop: cannabis
 ---

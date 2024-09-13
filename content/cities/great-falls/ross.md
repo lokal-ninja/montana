@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /great-falls/ross/
-shop: Warenhaus
+shop: department store
 ---

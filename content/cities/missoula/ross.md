@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /missoula/ross/
-shop: Warenhaus
+shop: department store
 ---

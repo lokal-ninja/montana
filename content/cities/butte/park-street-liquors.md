@@ -1,5 +1,5 @@
 ---
 title: "Park Street Liquors"
 url: /butte/park-street-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

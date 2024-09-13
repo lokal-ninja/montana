@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /great-falls/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

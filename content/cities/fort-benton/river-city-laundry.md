@@ -1,5 +1,5 @@
 ---
 title: "River City Laundry"
 url: /fort-benton/river-city-laundry/
-shop: Wäscherei
+shop: laundry
 ---

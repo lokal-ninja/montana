@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /helena/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

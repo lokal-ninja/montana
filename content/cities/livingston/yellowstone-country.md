@@ -1,5 +1,5 @@
 ---
 title: "Yellowstone Country"
 url: /livingston/yellowstone-country/
-shop: Autohaus
+shop: car
 ---

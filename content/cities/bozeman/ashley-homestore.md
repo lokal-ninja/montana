@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /bozeman/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

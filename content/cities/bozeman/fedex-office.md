@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /bozeman/fedex-office/
-shop: Kopieren
+shop: copyshop
 ---

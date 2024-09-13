@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /billings/verizon-montana-sapphire-drive/
-shop: Handy
+shop: mobile phone
 ---

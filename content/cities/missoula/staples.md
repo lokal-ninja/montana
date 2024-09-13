@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /missoula/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

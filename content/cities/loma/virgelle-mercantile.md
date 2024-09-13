@@ -1,5 +1,5 @@
 ---
 title: "Virgelle Mercantile"
 url: /loma/virgelle-mercantile/
-shop: Dorfladen
+shop: general
 ---

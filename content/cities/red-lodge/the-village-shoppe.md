@@ -1,5 +1,5 @@
 ---
 title: "The Village Shoppe"
 url: /red-lodge/the-village-shoppe/
-shop: Andenken
+shop: gift
 ---

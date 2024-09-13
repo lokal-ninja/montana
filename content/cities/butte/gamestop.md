@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /butte/gamestop/
-shop: Videospiele
+shop: video games
 ---

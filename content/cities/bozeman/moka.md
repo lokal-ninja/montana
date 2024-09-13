@@ -1,5 +1,5 @@
 ---
 title: "Moka"
 url: /bozeman/moka/
-shop: Kleidung
+shop: clothes
 ---

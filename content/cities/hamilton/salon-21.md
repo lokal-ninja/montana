@@ -1,5 +1,5 @@
 ---
 title: "Salon 21"
 url: /hamilton/salon-21/
-shop: Friseur
+shop: hairdresser
 ---

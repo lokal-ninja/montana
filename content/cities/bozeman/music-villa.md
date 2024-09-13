@@ -1,5 +1,5 @@
 ---
 title: "Music Villa"
 url: /bozeman/music-villa/
-shop: Instrumente
+shop: musical instrument
 ---

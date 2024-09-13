@@ -1,5 +1,5 @@
 ---
 title: "The Closet"
 url: /hamilton/the-closet/
-shop: Kleidung
+shop: clothes
 ---

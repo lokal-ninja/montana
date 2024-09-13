@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /livingston-montana/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

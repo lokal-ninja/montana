@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /butte/carquest/
-shop: Autoteile
+shop: car parts
 ---

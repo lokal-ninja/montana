@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /anaconda/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

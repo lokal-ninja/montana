@@ -1,5 +1,5 @@
 ---
 title: "Stuart's Napa Auto Care"
 url: /saint-ignatius/stuarts-napa-auto-care/
-shop: Autoteile
+shop: car parts
 ---

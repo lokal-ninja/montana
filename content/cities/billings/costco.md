@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /billings/costco/
-shop: Großhandel
+shop: wholesale
 ---

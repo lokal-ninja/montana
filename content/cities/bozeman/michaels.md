@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /bozeman/michaels/
-shop: Basteln
+shop: craft
 ---

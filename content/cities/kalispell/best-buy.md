@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /kalispell/best-buy/
-shop: Elektronik
+shop: electronics
 ---

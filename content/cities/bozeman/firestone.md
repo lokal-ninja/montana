@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /bozeman/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

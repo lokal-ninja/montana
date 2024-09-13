@@ -1,5 +1,5 @@
 ---
 title: "ABC Mini Storage"
 url: /butte/abc-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

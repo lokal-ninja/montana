@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /bozeman/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

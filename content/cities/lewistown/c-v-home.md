@@ -1,5 +1,5 @@
 ---
 title: "C + V Home"
 url: /lewistown/c-v-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

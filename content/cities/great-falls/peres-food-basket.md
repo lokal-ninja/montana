@@ -1,5 +1,5 @@
 ---
 title: "Peres Food Basket"
 url: /great-falls/peres-food-basket/
-shop: Lebensmittel
+shop: convenience
 ---

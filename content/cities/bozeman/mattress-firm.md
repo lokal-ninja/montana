@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /bozeman/mattress-firm/
-shop: Betten
+shop: bed
 ---

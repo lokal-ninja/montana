@@ -1,5 +1,5 @@
 ---
 title: "Fishers Technology"
 url: /butte/fishers-technology/
-shop: Schreibwaren
+shop: office supplies
 ---

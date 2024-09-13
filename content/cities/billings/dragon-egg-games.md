@@ -1,5 +1,5 @@
 ---
 title: "Dragon Egg Games"
 url: /billings/dragon-egg-games/
-shop: Spiele
+shop: games
 ---

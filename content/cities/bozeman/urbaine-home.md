@@ -1,5 +1,5 @@
 ---
 title: "Urbaine Home"
 url: /bozeman/urbaine-home/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beartooth IGA"
 url: /red-lodge/beartooth-iga/
-shop: Supermarkt
+shop: supermarket
 ---

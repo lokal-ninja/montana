@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /bozeman/u-haul/
-shop: Mieten
+shop: storage rental
 ---

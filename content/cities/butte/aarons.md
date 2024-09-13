@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /butte/aarons/
-shop: Möbel
+shop: furniture
 ---

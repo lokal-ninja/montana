@@ -1,5 +1,0 @@
----
-title: "Art's Tires & Service"
-url: /forsyth/arts-tires-und-service-main-street/
-shop: Reifen
----

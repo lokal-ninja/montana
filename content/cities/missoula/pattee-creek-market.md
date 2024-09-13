@@ -1,5 +1,5 @@
 ---
 title: "Pattee Creek Market"
 url: /missoula/pattee-creek-market/
-shop: Supermarkt
+shop: supermarket
 ---

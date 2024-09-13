@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /bozeman/target/
-shop: Warenhaus
+shop: department store
 ---

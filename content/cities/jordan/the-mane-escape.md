@@ -1,5 +1,5 @@
 ---
 title: "The Mane Escape"
 url: /jordan/the-mane-escape/
-shop: Friseur
+shop: hairdresser
 ---

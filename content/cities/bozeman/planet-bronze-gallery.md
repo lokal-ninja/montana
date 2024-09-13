@@ -1,5 +1,5 @@
 ---
 title: "Planet Bronze Gallery"
 url: /bozeman/planet-bronze-gallery/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action Rentals"
 url: /olney/action-rentals/
-shop: Mieten
+shop: storage rental
 ---

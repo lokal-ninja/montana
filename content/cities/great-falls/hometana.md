@@ -1,5 +1,5 @@
 ---
 title: "Hometana"
 url: /great-falls/hometana/
-shop: Kleidung
+shop: clothes
 ---

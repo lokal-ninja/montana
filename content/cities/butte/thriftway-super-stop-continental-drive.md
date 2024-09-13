@@ -1,5 +1,5 @@
 ---
 title: "Thriftway Super Stop"
 url: /butte/thriftway-super-stop-continental-drive/
-shop: Lebensmittel
+shop: convenience
 ---

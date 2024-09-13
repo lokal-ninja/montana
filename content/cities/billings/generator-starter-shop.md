@@ -1,5 +1,5 @@
 ---
 title: "Generator Starter Shop"
 url: /billings/generator-starter-shop/
-shop: Autoteile
+shop: car parts
 ---

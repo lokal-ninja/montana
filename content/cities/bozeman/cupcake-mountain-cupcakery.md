@@ -1,5 +1,5 @@
 ---
 title: "Cupcake Mountain Cupcakery"
 url: /bozeman/cupcake-mountain-cupcakery/
-shop: Bäckerei
+shop: bakery
 ---

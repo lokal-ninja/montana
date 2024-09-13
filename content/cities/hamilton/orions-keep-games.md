@@ -1,5 +1,5 @@
 ---
 title: "Orion's Keep Games"
 url: /hamilton/orions-keep-games/
-shop: Spiele
+shop: games
 ---

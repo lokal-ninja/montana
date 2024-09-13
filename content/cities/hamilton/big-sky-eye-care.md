@@ -1,5 +1,5 @@
 ---
 title: "Big Sky Eye Care"
 url: /hamilton/big-sky-eye-care/
-shop: Optiker
+shop: optician
 ---

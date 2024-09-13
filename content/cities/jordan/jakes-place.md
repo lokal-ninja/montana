@@ -1,5 +1,5 @@
 ---
 title: "Jakes Place"
 url: /jordan/jakes-place/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /anaconda/carquest/
-shop: Autoteile
+shop: car parts
 ---

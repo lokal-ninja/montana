@@ -1,5 +1,5 @@
 ---
 title: "Sure Stop"
 url: /custer/sure-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /kalispell/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sentry Storage"
 url: /butte/sentry-storage/
-shop: Mieten
+shop: storage rental
 ---

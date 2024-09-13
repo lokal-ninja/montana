@@ -1,5 +1,5 @@
 ---
 title: "Town Pump"
 url: /butte/town-pump-continental-drive/
-shop: Lebensmittel
+shop: convenience
 ---

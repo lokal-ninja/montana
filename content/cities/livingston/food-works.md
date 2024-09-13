@@ -1,5 +1,5 @@
 ---
 title: "Food Works"
 url: /livingston/food-works/
-shop: Bioladen
+shop: health food
 ---

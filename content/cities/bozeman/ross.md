@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /bozeman/ross/
-shop: Warenhaus
+shop: department store
 ---

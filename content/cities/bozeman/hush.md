@@ -1,5 +1,5 @@
 ---
 title: "Hush"
 url: /bozeman/hush/
-shop: Kosmetik
+shop: beauty
 ---

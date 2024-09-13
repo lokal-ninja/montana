@@ -1,5 +1,5 @@
 ---
 title: "Titan Rentals"
 url: /big-sky/titan-rentals/
-shop: Mieten
+shop: storage rental
 ---

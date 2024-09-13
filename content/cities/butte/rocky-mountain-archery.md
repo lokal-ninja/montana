@@ -1,5 +1,5 @@
 ---
 title: "Rocky Mountain Archery"
 url: /butte/rocky-mountain-archery/
-shop: Sport
+shop: sports
 ---

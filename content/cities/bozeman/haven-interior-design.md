@@ -1,5 +1,5 @@
 ---
 title: "Haven Interior Design"
 url: /bozeman/haven-interior-design/
-shop: Raumausstattung
+shop: interior decoration
 ---

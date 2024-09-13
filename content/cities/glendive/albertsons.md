@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /glendive/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

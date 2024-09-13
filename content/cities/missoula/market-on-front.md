@@ -1,5 +1,5 @@
 ---
 title: "Market on Front"
 url: /missoula/market-on-front/
-shop: Feinkost
+shop: deli
 ---

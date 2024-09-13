@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /missoula/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

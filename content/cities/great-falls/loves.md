@@ -1,5 +1,5 @@
 ---
 title: "Love's"
 url: /great-falls/loves/
-shop: Lebensmittel
+shop: convenience
 ---

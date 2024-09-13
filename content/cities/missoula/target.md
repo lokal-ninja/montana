@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /missoula/target/
-shop: Warenhaus
+shop: department store
 ---

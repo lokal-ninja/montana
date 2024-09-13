@@ -1,5 +1,5 @@
 ---
 title: "Snow Day"
 url: /bozeman/snow-day/
-shop: Videospiele
+shop: video games
 ---

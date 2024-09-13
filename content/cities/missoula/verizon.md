@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /missoula/verizon/
-shop: Handy
+shop: mobile phone
 ---
