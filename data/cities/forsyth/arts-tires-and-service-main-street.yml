@@ -1,11 +1,11 @@
 id: 762525582
-type: way
+type: node
 latitude: 46.26895
 longitude: -106.67218
 postcode: "59327"
 city: Forsyth
-street: "Main Street"
-housenumber: 1487
+street: Main Street
+housenumber: "1487"
 phone: ""
 opening_hours: ""
-website: "https://www.artstiresandservice.com/"
+website: https://www.artstiresandservice.com/

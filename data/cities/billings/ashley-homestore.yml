@@ -1,11 +1,11 @@
 id: 520083850
-type: way
+type: node
 latitude: 45.75
 longitude: -108.59009
 postcode: "59102"
 city: Billings
-street: "Millennium Circle"
-housenumber: 2914
-phone: "+1 406-259-5900"
+street: Millennium Circle
+housenumber: "2914"
+phone: +1 406-259-5900
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/montana/billings/7710000238/"
+website: https://stores.ashleyfurniture.com/store/us/montana/billings/7710000238/

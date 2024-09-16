@@ -1,11 +1,11 @@
 id: 345584570
-type: way
+type: node
 latitude: 46.43901
 longitude: -109.82892
 postcode: "59036"
 city: Harlowton
-street: "3rd Street Northeast"
-housenumber: 207
+street: 3rd Street Northeast
+housenumber: "207"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/Midtown-Market-2-107009409363713/"
+website: https://www.facebook.com/Midtown-Market-2-107009409363713/

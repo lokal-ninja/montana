@@ -1,11 +1,11 @@
 id: 391850041
-type: way
+type: node
 latitude: 45.67852
 longitude: -111.03122
 postcode: ""
 city: Bozeman
-street: "East Babcock Street"
-housenumber: 425
+street: East Babcock Street
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

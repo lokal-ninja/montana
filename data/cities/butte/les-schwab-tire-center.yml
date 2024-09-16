@@ -1,11 +1,11 @@
 id: 739943345
-type: way
+type: node
 latitude: 45.9972
 longitude: -112.53882
 postcode: "59701"
 city: Butte
-street: "Holland Street"
-housenumber: 290
+street: Holland Street
+housenumber: "290"
 phone: ""
 opening_hours: ""
 website: ""

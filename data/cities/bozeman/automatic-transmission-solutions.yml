@@ -1,11 +1,11 @@
 id: 487223708
-type: way
+type: node
 latitude: 45.69869
 longitude: -111.0421
 postcode: "59715"
 city: Bozeman
-street: "Gilkerson Drive"
-housenumber: 2006
+street: Gilkerson Drive
+housenumber: "2006"
 phone: ""
 opening_hours: ""
 website: ""

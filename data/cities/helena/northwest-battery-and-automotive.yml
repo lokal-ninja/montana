@@ -1,11 +1,11 @@
 id: 747490503
-type: way
+type: node
 latitude: 46.59073
 longitude: -111.98667
 postcode: "59601"
 city: Helena
-street: "Prospect Avenue"
-housenumber: 3005
-phone: "+1-406-443-4090"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://nwbatteryauto.com/"
+street: Prospect Avenue
+housenumber: "3005"
+phone: +1-406-443-4090
+opening_hours: Mo-Fr 07:30-17:30
+website: https://nwbatteryauto.com/

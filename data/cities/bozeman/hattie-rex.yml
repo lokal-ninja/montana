@@ -1,11 +1,11 @@
 id: 391858995
-type: way
+type: node
 latitude: 45.67884
 longitude: -111.03858
 postcode: ""
 city: Bozeman
-street: "South Willson Avenue"
-housenumber: 18
+street: South Willson Avenue
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

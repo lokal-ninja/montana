@@ -1,11 +1,11 @@
 id: 584901594
-type: way
+type: node
 latitude: 46.02871
 longitude: -114.17696
 postcode: "59829"
 city: Darby
-street: "North Main Street"
-housenumber: 806
+street: North Main Street
+housenumber: "806"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
 website: ""

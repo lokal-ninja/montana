@@ -1,11 +1,11 @@
 id: 86196039
-type: way
+type: node
 latitude: 46.40337
 longitude: -112.73463
 postcode: "59722"
 city: Deer Lodge
-street: "North Main Street"
-housenumber: 201
-phone: "+1 406-846-1550"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00"
-website: "https://local.safeway.com/safeway/mt/deer-lodge/201-n-main-st.html"
+street: North Main Street
+housenumber: "201"
+phone: +1 406-846-1550
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-22:00
+website: https://local.safeway.com/safeway/mt/deer-lodge/201-n-main-st.html

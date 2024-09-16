@@ -1,11 +1,11 @@
 id: 451824895
-type: way
+type: node
 latitude: 45.93412
 longitude: -112.50026
 postcode: ""
 city: Butte
-street: "Highway 2"
-housenumber: 6307
+street: Highway 2
+housenumber: "6307"
 phone: ""
 opening_hours: ""
 website: ""

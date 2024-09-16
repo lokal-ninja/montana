@@ -1,11 +1,11 @@
 id: 602736574
-type: way
+type: node
 latitude: 47.31949
 longitude: -114.0965
 postcode: "59865"
 city: Saint Ignatius
-street: "North Main Avenue"
-housenumber: 116
-phone: "(406) 745-4275"
-opening_hours: "Mo-Su 07:00-21:00"
+street: North Main Avenue
+housenumber: "116"
+phone: (406) 745-4275
+opening_hours: Mo-Su 07:00-21:00
 website: ""

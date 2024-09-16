@@ -1,11 +1,11 @@
 id: 555792177
-type: way
+type: node
 latitude: 48.40985
 longitude: -114.3373
 postcode: "59937"
 city: Whitefish
-street: "Central Avenue"
-housenumber: 240
+street: Central Avenue
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

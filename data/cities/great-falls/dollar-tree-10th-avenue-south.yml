@@ -1,11 +1,11 @@
 id: 487418966
-type: way
+type: node
 latitude: 47.49476
 longitude: -111.28968
 postcode: "59405"
 city: Great Falls
-street: "10th Avenue South"
-housenumber: 1017
+street: 10th Avenue South
+housenumber: "1017"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/mt/great-falls/2947/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/mt/great-falls/2947/

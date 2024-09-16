@@ -1,11 +1,11 @@
 id: 1226660124
-type: way
+type: node
 latitude: 46.74541
 longitude: -114.07929
 postcode: "59847"
 city: Lolo
-street: "US-93"
-housenumber: 13180
+street: US-93
+housenumber: "13180"
 phone: "+14065448748"
 opening_hours: ""
 website: ""

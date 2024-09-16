@@ -1,11 +1,11 @@
 id: 455950092
-type: way
+type: node
 latitude: 45.66933
 longitude: -110.54791
 postcode: "59047"
 city: Livingston
-street: "East Park Street"
-housenumber: 1210
+street: East Park Street
+housenumber: "1210"
 phone: ""
 opening_hours: ""
 website: ""

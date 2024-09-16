@@ -1,11 +1,11 @@
 id: 885406439
-type: way
+type: node
 latitude: 45.99118
 longitude: -112.51148
 postcode: "59701"
 city: Butte
-street: "Harrison Avenue"
-housenumber: 2125
+street: Harrison Avenue
+housenumber: "2125"
 phone: ""
 opening_hours: ""
-website: "https://www.buttecopper.com/"
+website: https://www.buttecopper.com/

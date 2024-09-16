@@ -1,11 +1,11 @@
 id: 334027138
-type: way
+type: node
 latitude: 46.26476
 longitude: -106.67621
 postcode: "59327"
 city: Forsyth
-street: "Front Street"
-housenumber: 1017
+street: Front Street
+housenumber: "1017"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/forsythwateringhole/"
+website: https://www.facebook.com/forsythwateringhole/

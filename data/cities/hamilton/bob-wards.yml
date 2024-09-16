@@ -1,11 +1,11 @@
 id: 698431165
-type: way
+type: node
 latitude: 46.25998
 longitude: -114.15693
 postcode: "59840"
 city: Hamilton
-street: "North 1st Street"
-housenumber: 1120
+street: North 1st Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

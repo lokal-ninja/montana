@@ -1,11 +1,11 @@
 id: 720781558
-type: way
+type: node
 latitude: 46.61577
 longitude: -112.01908
 postcode: "59601"
 city: Helena
-street: "East Custer Avenue"
-housenumber: 1225
-phone: "+1-406-442-1090"
+street: East Custer Avenue
+housenumber: "1225"
+phone: +1-406-442-1090
 opening_hours: ""
-website: "http://islandliquorstore.com/"
+website: http://islandliquorstore.com/

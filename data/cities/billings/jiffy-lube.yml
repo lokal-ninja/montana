@@ -1,11 +1,11 @@
 id: 845173425
-type: way
+type: node
 latitude: 45.75063
 longitude: -108.61713
 postcode: ""
 city: Billings
-street: "Shiloh Crossing Boulevard"
-housenumber: 1028
+street: Shiloh Crossing Boulevard
+housenumber: "1028"
 phone: ""
 opening_hours: ""
 website: ""

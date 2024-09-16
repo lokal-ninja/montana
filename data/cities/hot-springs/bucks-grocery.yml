@@ -1,11 +1,11 @@
 id: 881820616
-type: way
+type: node
 latitude: 47.6084
 longitude: -114.67121
 postcode: "59845"
 city: Hot Springs
-street: "Main Street"
-housenumber: 223
-phone: "+1-406-741-2125"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.bucksgrocery.com/"
+street: Main Street
+housenumber: "223"
+phone: +1-406-741-2125
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.bucksgrocery.com/

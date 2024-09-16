@@ -4,8 +4,8 @@ latitude: 45.66139
 longitude: -110.5598
 postcode: "59047"
 city: Livingston
-street: "South Main Street"
-housenumber: 101
+street: South Main Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.theframegarden.com/"
+website: https://www.theframegarden.com/

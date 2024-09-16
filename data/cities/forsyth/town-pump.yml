@@ -1,11 +1,11 @@
 id: 334027140
-type: way
+type: node
 latitude: 46.26385
 longitude: -106.67629
 postcode: "59327"
 city: Forsyth
-street: "Front Street"
-housenumber: 974
+street: Front Street
+housenumber: "974"
 phone: ""
 opening_hours: ""
 website: ""

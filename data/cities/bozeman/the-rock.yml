@@ -1,11 +1,11 @@
 id: 397720891
-type: way
+type: node
 latitude: 45.68181
 longitude: -111.05102
 postcode: ""
 city: Bozeman
-street: "North 11th Avenue"
-housenumber: 214
+street: North 11th Avenue
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

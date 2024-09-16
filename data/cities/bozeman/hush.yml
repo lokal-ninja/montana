@@ -1,11 +1,11 @@
 id: 392888952
-type: way
+type: node
 latitude: 45.68066
 longitude: -111.02665
 postcode: ""
 city: Bozeman
-street: "East Mendenhall Street"
-housenumber: 701
+street: East Mendenhall Street
+housenumber: "701"
 phone: ""
 opening_hours: ""
 website: ""

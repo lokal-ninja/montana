@@ -1,11 +1,11 @@
 id: 922377447
-type: way
+type: node
 latitude: 48.40771
 longitude: -115.59457
 postcode: ""
 city: Libby
-street: "US 2"
-housenumber: 30414
+street: US 2
+housenumber: "30414"
 phone: ""
 opening_hours: ""
 website: ""

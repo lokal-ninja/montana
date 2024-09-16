@@ -2,10 +2,10 @@ id: 8428189735
 type: node
 latitude: 45.75339
 longitude: -108.58524
-postcode: "59102-6432"
+postcode: 59102-6432
 city: Billings
-street: "King Avenue West"
-housenumber: 2800
-phone: "+1 406-652-7440"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/mt/billings/9916"
+street: King Avenue West
+housenumber: "2800"
+phone: +1 406-652-7440
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/mt/billings/9916

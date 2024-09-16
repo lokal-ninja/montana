@@ -1,11 +1,11 @@
 id: 400668856
-type: way
+type: node
 latitude: 45.67164
 longitude: -111.08115
-postcode: "59718-9097"
+postcode: 59718-9097
 city: Bozeman
-street: "Huffine Lane"
-housenumber: 8695
-phone: "+1 406-582-7330"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-19:00; Su 09:00-18:00"
+street: Huffine Lane
+housenumber: "8695"
+phone: +1 406-582-7330
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-19:00; Su 09:00-18:00
 website: ""

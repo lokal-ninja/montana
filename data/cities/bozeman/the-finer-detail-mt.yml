@@ -1,11 +1,11 @@
 id: 487208057
-type: way
+type: node
 latitude: 45.69901
 longitude: -111.0318
 postcode: "59715"
 city: Bozeman
-street: "North Rouse Avenue"
-housenumber: 2013
+street: North Rouse Avenue
+housenumber: "2013"
 phone: ""
 opening_hours: ""
 website: ""

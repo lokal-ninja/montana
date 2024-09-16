@@ -1,11 +1,11 @@
 id: 400668861
-type: way
+type: node
 latitude: 45.66979
 longitude: -111.08184
 postcode: ""
 city: Bozeman
-street: "Huffine Lane"
-housenumber: 3255
+street: Huffine Lane
+housenumber: "3255"
 phone: ""
 opening_hours: ""
 website: ""

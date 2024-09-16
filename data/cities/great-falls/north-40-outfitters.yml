@@ -4,8 +4,8 @@ latitude: 47.51831
 longitude: -111.3129
 postcode: "59404"
 city: Great Falls
-street: "3rd Street NW"
-housenumber: 1000
+street: 3rd Street NW
+housenumber: "1000"
 phone: ""
 opening_hours: ""
-website: "https://north40.com/great-falls-west-store"
+website: https://north40.com/great-falls-west-store

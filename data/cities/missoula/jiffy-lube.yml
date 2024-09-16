@@ -1,11 +1,11 @@
 id: 666400648
-type: way
+type: node
 latitude: 46.86952
 longitude: -113.98674
-postcode: "59802-4611"
+postcode: 59802-4611
 city: Missoula
-street: "E. Broadway Street"
-housenumber: 601
+street: E. Broadway Street
+housenumber: "601"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.jiffylube.com/locations/mt/missoula/1871"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.jiffylube.com/locations/mt/missoula/1871

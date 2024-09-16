@@ -1,11 +1,11 @@
 id: 305809323
-type: way
+type: node
 latitude: 45.69901
 longitude: -111.05934
 postcode: "59718"
 city: Bozeman
-street: "Tschache Lane"
-housenumber: 1731
-phone: "+1 406-522-3240"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-21:00"
-website: "https://www.lowes.com/store/mt-bozeman/2608"
+street: Tschache Lane
+housenumber: "1731"
+phone: +1 406-522-3240
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-21:00
+website: https://www.lowes.com/store/mt-bozeman/2608

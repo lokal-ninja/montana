@@ -1,11 +1,11 @@
 id: 173057342
-type: way
+type: node
 latitude: 46.59066
 longitude: -112.0071
 postcode: "59601"
 city: Helena
-street: "Fee Street"
-housenumber: 600
-phone: "+1 406-442-1052"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.albertsons.com/mt/helena/600-fee-st.html"
+street: Fee Street
+housenumber: "600"
+phone: +1 406-442-1052
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.albertsons.com/mt/helena/600-fee-st.html

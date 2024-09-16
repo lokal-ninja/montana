@@ -1,11 +1,11 @@
 id: 987557029
-type: way
+type: node
 latitude: 47.00348
 longitude: -113.37126
 postcode: "59823"
 city: Greenough
-street: "MT 200"
-housenumber: 44676
+street: MT 200
+housenumber: "44676"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 866513828
-type: way
+type: node
 latitude: 45.73733
 longitude: -108.58959
 postcode: "59101"
 city: Billings
-street: "South Frontage Road"
-housenumber: 6900
+street: South Frontage Road
+housenumber: "6900"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 886911367
-type: way
+type: node
 latitude: 45.9869
 longitude: -112.50776
 postcode: "59701"
 city: Butte
-street: "Harrison Avenue"
-housenumber: 2610
-phone: "+1-406-494-3155"
-opening_hours: "24/7"
-website: "https://www.thriftwayss.com"
+street: Harrison Avenue
+housenumber: "2610"
+phone: +1-406-494-3155
+opening_hours: 24/7
+website: https://www.thriftwayss.com

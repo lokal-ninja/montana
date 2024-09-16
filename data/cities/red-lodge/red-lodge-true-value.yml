@@ -1,11 +1,11 @@
 id: 293637700
-type: way
+type: node
 latitude: 45.18708
 longitude: -109.24894
-postcode: "59068-9007"
+postcode: 59068-9007
 city: Red Lodge
-street: "North Oakes Avenue"
-housenumber: 1
-phone: "+1 406-446-1847"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-17:00"
+street: North Oakes Avenue
+housenumber: "1"
+phone: +1 406-446-1847
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-17:00
 website: ""

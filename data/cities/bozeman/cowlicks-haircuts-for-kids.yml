@@ -4,8 +4,8 @@ latitude: 45.6796
 longitude: -111.02649
 postcode: "59715"
 city: Bozeman
-street: "East Main Street"
-housenumber: 777
+street: East Main Street
+housenumber: "777"
 phone: ""
-opening_hours: "10:00-17:00"
+opening_hours: 10:00-17:00
 website: ""

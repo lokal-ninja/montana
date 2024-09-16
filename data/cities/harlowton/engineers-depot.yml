@@ -1,11 +1,11 @@
 id: 467818979
-type: way
+type: node
 latitude: 46.43764
 longitude: -109.83208
 postcode: "59036"
 city: Harlowton
-street: "2nd Street Northeast"
-housenumber: 102
+street: 2nd Street Northeast
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

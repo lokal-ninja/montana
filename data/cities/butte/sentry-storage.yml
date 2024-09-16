@@ -1,11 +1,11 @@
 id: 1227931243
-type: way
+type: node
 latitude: 46.00492
 longitude: -112.49653
 postcode: "59701"
 city: Butte
-street: "Hayes Avenue"
-housenumber: 1110
+street: Hayes Avenue
+housenumber: "1110"
 phone: ""
 opening_hours: ""
 website: ""

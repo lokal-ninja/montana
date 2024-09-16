@@ -1,11 +1,11 @@
 id: 545376830
-type: way
+type: node
 latitude: 47.49327
 longitude: -111.23607
 postcode: "59405"
 city: Great Falls
-street: "10th Avenue South"
-housenumber: 4100
-phone: "(888) 247-9948"
+street: 10th Avenue South
+housenumber: "4100"
+phone: (888) 247-9948
 opening_hours: ""
-website: "https://www.taylorsautomax.com/"
+website: https://www.taylorsautomax.com/

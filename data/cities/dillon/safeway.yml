@@ -1,11 +1,11 @@
 id: 801420142
-type: way
+type: node
 latitude: 45.22411
 longitude: -112.62803
 postcode: "59725"
 city: Dillon
-street: "North Montana Street"
-housenumber: 570
-phone: "+1 406-683-5002"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.safeway.com/safeway/mt/dillon/570-n-montana-st.html"
+street: North Montana Street
+housenumber: "570"
+phone: +1 406-683-5002
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.safeway.com/safeway/mt/dillon/570-n-montana-st.html

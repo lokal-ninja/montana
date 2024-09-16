@@ -1,11 +1,11 @@
 id: 502729834
-type: way
+type: node
 latitude: 47.49464
 longitude: -111.23674
 postcode: "59405"
 city: Great Falls
-street: "10th Ave South"
-housenumber: 4025
-phone: "(406) 205-3430"
-opening_hours: "Mo-Sa 08:30-19:00; Su 11:00-17:00"
-website: "https://www.lithiachryslergreatfalls.com/"
+street: 10th Ave South
+housenumber: "4025"
+phone: (406) 205-3430
+opening_hours: Mo-Sa 08:30-19:00; Su 11:00-17:00
+website: https://www.lithiachryslergreatfalls.com/

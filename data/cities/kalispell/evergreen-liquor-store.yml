@@ -1,11 +1,11 @@
 id: 755312295
-type: way
+type: node
 latitude: 48.21777
 longitude: -114.27805
 postcode: "59901"
 city: Kalispell
-street: "US-2 East"
-housenumber: 2040
-phone: "+1-406-755-1408"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: US-2 East
+housenumber: "2040"
+phone: +1-406-755-1408
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

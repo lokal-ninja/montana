@@ -1,11 +1,11 @@
 id: 451824896
-type: way
+type: node
 latitude: 45.97239
 longitude: -112.50856
 postcode: "59701"
 city: Butte
-street: "Harrison Avenue"
-housenumber: 3605
+street: Harrison Avenue
+housenumber: "3605"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su closed"
-website: "https://locations.aarons.com/us/mt/butte/3605-harrison-ave."
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su closed
+website: https://locations.aarons.com/us/mt/butte/3605-harrison-ave.

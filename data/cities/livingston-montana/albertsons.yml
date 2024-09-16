@@ -1,11 +1,11 @@
 id: 337441688
-type: way
+type: node
 latitude: 45.64258
 longitude: -110.57601
 postcode: "59047"
 city: Livingston Montana
-street: "Park Street South"
-housenumber: 220
-phone: "+1 406-222-1177"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/mt/livingston/2120-w-park-st.html"
+street: Park Street South
+housenumber: "220"
+phone: +1 406-222-1177
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/mt/livingston/2120-w-park-st.html

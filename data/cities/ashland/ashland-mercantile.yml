@@ -1,11 +1,11 @@
 id: 538336092
-type: way
+type: node
 latitude: 45.59013
 longitude: -106.26285
 postcode: "59003"
 city: Ashland
-street: "Main Street"
-housenumber: 104
+street: Main Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

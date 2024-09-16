@@ -4,8 +4,8 @@ latitude: 45.79628
 longitude: -108.48345
 postcode: "59101"
 city: Billings
-street: "4th Avenue North"
-housenumber: 804
+street: 4th Avenue North
+housenumber: "804"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

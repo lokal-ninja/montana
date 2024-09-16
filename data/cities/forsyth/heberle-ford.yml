@@ -1,11 +1,11 @@
 id: 751425312
-type: way
+type: node
 latitude: 46.26903
 longitude: -106.66557
 postcode: "59327"
 city: Forsyth
-street: "Front Street"
-housenumber: 1825
+street: Front Street
+housenumber: "1825"
 phone: ""
 opening_hours: ""
-website: "https://www.heberleford.com/"
+website: https://www.heberleford.com/

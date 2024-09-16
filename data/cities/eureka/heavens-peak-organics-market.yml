@@ -1,11 +1,11 @@
 id: 906018766
-type: way
+type: node
 latitude: 48.88828
 longitude: -115.05666
 postcode: ""
 city: Eureka
-street: "US-93 N"
-housenumber: 355
+street: US-93 N
+housenumber: "355"
 phone: ""
 opening_hours: ""
-website: "https://www.heavenspeakorganics.com/"
+website: https://www.heavenspeakorganics.com/

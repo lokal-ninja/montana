@@ -1,11 +1,11 @@
 id: 1219679811
-type: way
+type: node
 latitude: 45.90535
 longitude: -112.38141
 postcode: "59759"
 city: Whitehall
-street: "Upper Rader Creek Road"
-housenumber: 530
-phone: "+1 406 581 6202"
+street: Upper Rader Creek Road
+housenumber: "530"
+phone: +1 406 581 6202
 opening_hours: ""
-website: "https://www.homestakelodge.com/"
+website: https://www.homestakelodge.com/

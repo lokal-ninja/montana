@@ -1,11 +1,11 @@
 id: 556032595
-type: way
+type: node
 latitude: 45.67177
 longitude: -111.05058
 postcode: "59715"
 city: Bozeman
-street: "South 10th Avenue"
-housenumber: 720
-phone: "+1-406-522-0239"
-opening_hours: "07:00-19:00"
-website: "https://beaconroasters.com/"
+street: South 10th Avenue
+housenumber: "720"
+phone: +1-406-522-0239
+opening_hours: 07:00-19:00
+website: https://beaconroasters.com/

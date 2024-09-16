@@ -4,8 +4,8 @@ latitude: 45.7879
 longitude: -108.50845
 postcode: "59101"
 city: Billings
-street: "North 26th Street"
-housenumber: 611
-phone: "+1 406-248-7474"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-21:00; Su 08:00-21:00"
-website: "https://local.albertsons.com/mt/billings/611-n-27th-st.html"
+street: North 26th Street
+housenumber: "611"
+phone: +1 406-248-7474
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-21:00; Su 08:00-21:00
+website: https://local.albertsons.com/mt/billings/611-n-27th-st.html

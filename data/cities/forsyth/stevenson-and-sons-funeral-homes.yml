@@ -1,11 +1,11 @@
 id: 334100653
-type: way
+type: node
 latitude: 46.25989
 longitude: -106.6941
 postcode: "59327"
 city: Forsyth
-street: "Westwind Lane"
-housenumber: 245
+street: Westwind Lane
+housenumber: "245"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://stevensonandsons.com/forsyth/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://stevensonandsons.com/forsyth/

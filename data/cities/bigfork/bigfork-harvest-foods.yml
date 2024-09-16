@@ -1,11 +1,11 @@
 id: 1059441333
-type: way
+type: node
 latitude: 48.0736
 longitude: -114.07853
 postcode: "59911"
 city: Bigfork
-street: "MT Hwy 35"
-housenumber: 8111
-phone: "406-837-5010"
+street: MT Hwy 35
+housenumber: "8111"
+phone: 406-837-5010
 opening_hours: ""
-website: "https://www.harvestfoodsnw.com"
+website: https://www.harvestfoodsnw.com

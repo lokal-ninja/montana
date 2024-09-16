@@ -1,11 +1,11 @@
 id: 620221519
-type: way
+type: node
 latitude: 47.69434
 longitude: -114.16021
 postcode: "59860"
 city: Polson
-street: "2nd Street East"
-housenumber: 201
+street: 2nd Street East
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

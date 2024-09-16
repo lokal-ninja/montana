@@ -1,11 +1,11 @@
 id: 887415177
-type: way
+type: node
 latitude: 45.98087
 longitude: -112.50661
 postcode: "59701"
 city: Butte
-street: "Harrison Avenue"
-housenumber: 3100
+street: Harrison Avenue
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

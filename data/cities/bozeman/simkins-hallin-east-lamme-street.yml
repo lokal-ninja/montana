@@ -1,11 +1,11 @@
 id: 392888957
-type: way
+type: node
 latitude: 45.68102
 longitude: -111.02802
 postcode: ""
 city: Bozeman
-street: "East Lamme Street"
-housenumber: 610
+street: East Lamme Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 467818997
-type: way
+type: node
 latitude: 46.43689
 longitude: -109.83348
 postcode: "59036"
 city: Harlowton
-street: "Central Avenue North"
-housenumber: 124
+street: Central Avenue North
+housenumber: "124"
 phone: ""
-opening_hours: "Mo-Fr 07:00-14:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:00-14:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 908555095
-type: way
+type: node
 latitude: 48.38187
 longitude: -115.54903
 postcode: "59923"
 city: Libby
-street: "Minnesota Avenue"
-housenumber: 1406
+street: Minnesota Avenue
+housenumber: "1406"
 phone: ""
 opening_hours: ""
 website: ""

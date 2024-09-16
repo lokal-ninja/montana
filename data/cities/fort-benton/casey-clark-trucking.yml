@@ -1,11 +1,11 @@
 id: 1282633895
-type: way
+type: node
 latitude: 47.82954
 longitude: -110.66404
 postcode: "59442"
 city: Fort Benton
-street: "Saint Charles Street"
-housenumber: 2410
+street: Saint Charles Street
+housenumber: "2410"
 phone: ""
 opening_hours: ""
 website: ""

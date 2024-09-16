@@ -1,11 +1,11 @@
 id: 454632430
-type: way
+type: node
 latitude: 45.18579
 longitude: -109.24684
 postcode: ""
 city: Red Lodge
-street: "South Broadway Avenue"
-housenumber: 102
+street: South Broadway Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

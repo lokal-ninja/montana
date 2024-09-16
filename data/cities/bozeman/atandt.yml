@@ -1,11 +1,11 @@
 id: 308452037
-type: way
+type: node
 latitude: 45.69408
 longitude: -111.06309
 postcode: "59718"
 city: Bozeman
-street: "North 19th Avenue"
-housenumber: 1459
+street: North 19th Avenue
+housenumber: "1459"
 phone: ""
 opening_hours: ""
-website: "https://www.att.com/stores/montana/bozeman/89923"
+website: https://www.att.com/stores/montana/bozeman/89923

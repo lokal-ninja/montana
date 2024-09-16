@@ -1,11 +1,11 @@
 id: 487418986
-type: way
+type: node
 latitude: 47.49402
 longitude: -111.29905
 postcode: "59401"
 city: Great Falls
-street: "10th Avenue South"
-housenumber: 500
-phone: "1-406-727-2552"
+street: 10th Avenue South
+housenumber: "500"
+phone: 1-406-727-2552
 opening_hours: ""
 website: ""

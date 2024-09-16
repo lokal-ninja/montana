@@ -1,11 +1,11 @@
 id: 749101815
-type: way
+type: node
 latitude: 46.87339
 longitude: -113.99237
 postcode: "59802"
 city: Missoula
-street: "East Spruce Street"
-housenumber: 111
-phone: "+1-406-543-5171"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://missoulatextiles.com/"
+street: East Spruce Street
+housenumber: "111"
+phone: +1-406-543-5171
+opening_hours: Mo-Fr 07:30-17:30
+website: https://missoulatextiles.com/

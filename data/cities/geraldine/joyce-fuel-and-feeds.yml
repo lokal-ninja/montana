@@ -1,11 +1,11 @@
 id: 1226136703
-type: way
+type: node
 latitude: 47.60588
 longitude: -110.26673
 postcode: "59446"
 city: Geraldine
-street: "MT 80"
-housenumber: 28430
+street: MT 80
+housenumber: "28430"
 phone: ""
 opening_hours: ""
 website: ""

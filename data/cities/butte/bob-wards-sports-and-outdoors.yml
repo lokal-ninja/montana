@@ -1,11 +1,11 @@
 id: 887415162
-type: way
+type: node
 latitude: 45.98415
 longitude: -112.51097
 postcode: "59701"
 city: Butte
-street: "Dewey Boulevard"
-housenumber: 1925
+street: Dewey Boulevard
+housenumber: "1925"
 phone: ""
 opening_hours: ""
 website: ""

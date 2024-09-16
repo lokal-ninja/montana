@@ -1,11 +1,11 @@
 id: 400680050
-type: way
+type: node
 latitude: 45.67607
 longitude: -111.07103
 postcode: ""
 city: Bozeman
-street: "Edelweiss Drive"
-housenumber: 315
+street: Edelweiss Drive
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

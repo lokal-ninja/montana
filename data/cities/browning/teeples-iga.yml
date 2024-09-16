@@ -1,11 +1,11 @@
 id: 364569317
-type: way
+type: node
 latitude: 48.55644
 longitude: -113.01748
 postcode: "59417"
 city: Browning
-street: "West Central Avenue"
-housenumber: 209
-phone: "+1 406-323-2410"
+street: West Central Avenue
+housenumber: "209"
+phone: +1 406-323-2410
 opening_hours: ""
 website: ""

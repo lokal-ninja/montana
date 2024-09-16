@@ -1,11 +1,11 @@
 id: 833702846
-type: way
+type: node
 latitude: 46.59761
 longitude: -112.00811
 postcode: "59601"
 city: Helena
-street: "Boulder Avenue"
-housenumber: 1816
+street: Boulder Avenue
+housenumber: "1816"
 phone: ""
 opening_hours: ""
 website: ""

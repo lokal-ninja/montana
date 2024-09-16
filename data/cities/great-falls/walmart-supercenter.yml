@@ -1,11 +1,11 @@
 id: 45696126
-type: way
+type: node
 latitude: 47.52667
 longitude: -111.29529
 postcode: "59404"
 city: Great Falls
-street: "Smelter Avenue Northeast"
-housenumber: 701
-phone: "+1 406-761-5426"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2455/great-falls-mt/whats-new"
+street: Smelter Avenue Northeast
+housenumber: "701"
+phone: +1 406-761-5426
+opening_hours: 24/7
+website: https://www.walmart.com/store/2455/great-falls-mt/whats-new

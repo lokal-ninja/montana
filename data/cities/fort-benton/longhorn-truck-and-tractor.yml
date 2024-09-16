@@ -1,11 +1,11 @@
 id: 1230489416
-type: way
+type: node
 latitude: 47.82103
 longitude: -110.70383
 postcode: "59442"
 city: Fort Benton
-street: "Ensign Trail"
-housenumber: 1231
-phone: "+1 406 402 7905"
+street: Ensign Trail
+housenumber: "1231"
+phone: +1 406 402 7905
 opening_hours: ""
-website: "https://www.longhorntnt.com/"
+website: https://www.longhorntnt.com/

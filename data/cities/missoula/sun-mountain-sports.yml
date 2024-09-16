@@ -1,11 +1,11 @@
 id: 668168272
-type: way
+type: node
 latitude: 46.87758
 longitude: -113.99446
 postcode: "59802"
 city: Missoula
-street: "North 1st Street West"
-housenumber: 305
+street: North 1st Street West
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

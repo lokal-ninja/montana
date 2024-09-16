@@ -1,11 +1,11 @@
 id: 884218076
-type: way
+type: node
 latitude: 45.67732
 longitude: -111.01868
 postcode: "59715"
 city: Bozeman
-street: "Highland Boulevard"
-housenumber: 200
+street: Highland Boulevard
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

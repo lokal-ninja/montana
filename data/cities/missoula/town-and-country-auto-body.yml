@@ -1,11 +1,11 @@
 id: 734611147
-type: way
+type: node
 latitude: 46.88271
 longitude: -114.04232
 postcode: "59808"
 city: Missoula
-street: "Clark Fork Way"
-housenumber: 3615
+street: Clark Fork Way
+housenumber: "3615"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
+opening_hours: Mo-Fr 07:30-17:30
 website: ""

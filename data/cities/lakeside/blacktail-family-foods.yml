@@ -1,11 +1,11 @@
 id: 686320871
-type: way
+type: node
 latitude: 48.01744
 longitude: -114.22564
 postcode: "59922"
 city: Lakeside
-street: "Stoner Loop"
-housenumber: 105
+street: Stoner Loop
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

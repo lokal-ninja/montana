@@ -1,11 +1,11 @@
 id: 306069803
-type: way
+type: node
 latitude: 45.71047
 longitude: -111.07073
 postcode: "59718"
 city: Bozeman
-street: "Catron street"
-housenumber: 2550
+street: Catron street
+housenumber: "2550"
 phone: "14065829669"
-opening_hours: "Mo-Sa 07:00-22:00, Su 07:00-21:00"
-website: "https://www.target.com/sl/bozeman/1237"
+opening_hours: Mo-Sa 07:00-22:00, Su 07:00-21:00
+website: https://www.target.com/sl/bozeman/1237

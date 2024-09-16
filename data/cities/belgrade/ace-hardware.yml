@@ -1,11 +1,11 @@
 id: 552459729
-type: way
+type: node
 latitude: 45.76154
 longitude: -111.18355
-postcode: "59714-9022"
+postcode: 59714-9022
 city: Belgrade
-street: "Jackrabbit Lane"
-housenumber: 6280
-phone: "+1 406-388-6012"
-opening_hours: "Mo-Sa 07:00-21:00; Su 08:00-19:00"
+street: Jackrabbit Lane
+housenumber: "6280"
+phone: +1 406-388-6012
+opening_hours: Mo-Sa 07:00-21:00; Su 08:00-19:00
 website: ""

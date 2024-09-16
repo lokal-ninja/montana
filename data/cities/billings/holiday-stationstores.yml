@@ -1,11 +1,11 @@
 id: 635798057
-type: way
+type: node
 latitude: 45.78709
 longitude: -108.50822
 postcode: "59101"
 city: Billings
-street: "6th Avenue North"
-housenumber: 2620
+street: 6th Avenue North
+housenumber: "2620"
 phone: ""
 opening_hours: ""
 website: ""

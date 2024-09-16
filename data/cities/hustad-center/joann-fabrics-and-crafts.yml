@@ -1,11 +1,11 @@
 id: 393745953
-type: way
+type: node
 latitude: 46.61818
 longitude: -112.01835
 postcode: "59602"
 city: Hustad Center
-street: "North Montana Avenue"
-housenumber: 3131
-phone: "+1 406-443-2644"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://stores.joann.com/mt/helena/1696/"
+street: North Montana Avenue
+housenumber: "3131"
+phone: +1 406-443-2644
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://stores.joann.com/mt/helena/1696/

@@ -1,11 +1,11 @@
 id: 552659373
-type: way
+type: node
 latitude: 45.77343
 longitude: -111.18093
 postcode: "59714"
 city: Belgrade
-street: "West Madison Avenue"
-housenumber: 91
+street: West Madison Avenue
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

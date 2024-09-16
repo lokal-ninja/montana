@@ -1,11 +1,11 @@
 id: 400668869
-type: way
+type: node
 latitude: 45.67438
 longitude: -111.07241
 postcode: ""
 city: Bozeman
-street: "West Main Street"
-housenumber: 2607
+street: West Main Street
+housenumber: "2607"
 phone: ""
 opening_hours: ""
 website: ""

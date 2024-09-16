@@ -1,11 +1,11 @@
 id: 263410353
-type: way
+type: node
 latitude: 46.61873
 longitude: -112.02236
 postcode: "59602"
 city: Helena
-street: "Road Runner Drive"
-housenumber: 1100
+street: Road Runner Drive
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

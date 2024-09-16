@@ -1,11 +1,11 @@
 id: 335819902
-type: way
+type: node
 latitude: 46.24634
 longitude: -114.15541
 postcode: "59840"
 city: Hamilton
-street: "East Main Street"
-housenumber: 101
-phone: "+1 406-363-2270"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.safeway.com/safeway/mt/hamilton/101-e-main-st.html"
+street: East Main Street
+housenumber: "101"
+phone: +1 406-363-2270
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.safeway.com/safeway/mt/hamilton/101-e-main-st.html

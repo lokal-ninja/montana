@@ -1,11 +1,11 @@
 id: 553866708
-type: way
+type: node
 latitude: 45.77759
 longitude: -111.17902
 postcode: "59714"
 city: Belgrade
-street: "West Main Street"
-housenumber: 119
+street: West Main Street
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

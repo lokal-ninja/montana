@@ -1,11 +1,11 @@
 id: 391850043
-type: way
+type: node
 latitude: 45.67855
 longitude: -111.03735
 postcode: ""
 city: Bozeman
-street: "South Tracy Avenue"
-housenumber: 39
+street: South Tracy Avenue
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

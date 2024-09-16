@@ -1,11 +1,11 @@
 id: 192406937
-type: way
+type: node
 latitude: 47.32197
 longitude: -106.91044
 postcode: "59337"
 city: Jordan
-street: "Jordan Avenue"
-housenumber: 618
-phone: "+1-406-557-2206"
+street: Jordan Avenue
+housenumber: "618"
+phone: +1-406-557-2206
 opening_hours: ""
 website: ""

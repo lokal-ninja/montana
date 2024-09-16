@@ -1,11 +1,11 @@
 id: 602727228
-type: way
+type: node
 latitude: 47.32122
 longitude: -114.09982
 postcode: "59865"
 city: Saint Ignatius
-street: "Mountain View Drive"
-housenumber: 240
+street: Mountain View Drive
+housenumber: "240"
 phone: ""
 opening_hours: ""
 website: ""

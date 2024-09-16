@@ -1,11 +1,11 @@
 id: 336571174
-type: way
+type: node
 latitude: 45.83961
 longitude: -109.94207
 postcode: "59011"
 city: Big Timber
-street: "Centennial Drive"
-housenumber: 100
+street: Centennial Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

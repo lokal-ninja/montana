@@ -1,11 +1,11 @@
 id: 305439929
-type: way
+type: node
 latitude: 45.69413
 longitude: -111.04276
 postcode: "59715"
 city: Bozeman
-street: "North 7th Avenue"
-housenumber: 1500
-phone: "+1 406-585-8788"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2084/bozeman-mt/whats-new"
+street: North 7th Avenue
+housenumber: "1500"
+phone: +1 406-585-8788
+opening_hours: 24/7
+website: https://www.walmart.com/store/2084/bozeman-mt/whats-new

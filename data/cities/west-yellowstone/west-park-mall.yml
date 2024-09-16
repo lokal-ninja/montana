@@ -1,11 +1,11 @@
 id: 453257568
-type: way
+type: node
 latitude: 44.66136
 longitude: -111.09989
 postcode: "59758"
 city: West Yellowstone
-street: "Canyon Street"
-housenumber: 120
+street: Canyon Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

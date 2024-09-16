@@ -1,11 +1,11 @@
 id: 279109212
-type: way
+type: node
 latitude: 47.0039
 longitude: -114.48277
 postcode: "59820"
 city: Alberton
-street: "Railroad Avenue"
-housenumber: 201
+street: Railroad Avenue
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

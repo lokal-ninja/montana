@@ -1,11 +1,11 @@
 id: 112267624
-type: way
+type: node
 latitude: 46.88309
 longitude: -114.04292
 postcode: "59808"
 city: Missoula
-street: "Mullan Road"
-housenumber: 3555
-phone: "+1 406-829-8489"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3259/missoula-mt/whats-new"
+street: Mullan Road
+housenumber: "3555"
+phone: +1 406-829-8489
+opening_hours: 24/7
+website: https://www.walmart.com/store/3259/missoula-mt/whats-new

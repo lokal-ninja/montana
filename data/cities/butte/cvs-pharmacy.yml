@@ -1,11 +1,11 @@
 id: 1227154725
-type: way
+type: node
 latitude: 46.00101
 longitude: -112.52189
 postcode: "59701"
 city: Butte
-street: "Harrison Avenue"
-housenumber: 1275
+street: Harrison Avenue
+housenumber: "1275"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/butte-mt-pharmacies/1275-harrison-st-butte-mt-59701/storeid=8627"
+website: https://www.cvs.com/store-locator/butte-mt-pharmacies/1275-harrison-st-butte-mt-59701/storeid=8627
