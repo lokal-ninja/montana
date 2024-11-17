@@ -1,5 +1,5 @@
 ---
 title: "Crystal Compass"
 url: /hamilton/crystal-compass/
-shop: shop
+shop: esoteric
 ---
