@@ -1,6 +1,6 @@
 ---
 title: Three Forks
 url: /three-forks/
-latitude: 45.89
-longitude: -111.558
+latitude: 45.892
+longitude: -111.553
 ---
