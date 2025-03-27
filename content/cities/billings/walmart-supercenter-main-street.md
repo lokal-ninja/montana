@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /billings/walmart-supercenter-king-avenue-west/
+url: /billings/walmart-supercenter-main-street/
 shop: supermarket
 ---
