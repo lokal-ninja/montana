@@ -1,5 +1,5 @@
 ---
 title: "Town Pump"
-url: /bozeman/town-pump-2/
+url: /bozeman/town-pump-west-main-street/
 shop: convenience
 ---
