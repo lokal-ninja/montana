@@ -1,5 +1,5 @@
 ---
-title: "Three bears Pharmacy"
+title: "Three Bears Pharmacy"
 url: /butte/three-bears-pharmacy/
 shop: chemist
 ---
