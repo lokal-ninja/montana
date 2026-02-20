@@ -1,5 +1,5 @@
 ---
 title: "Brute Audio"
-url: /forest-hill-village/brute-audio/
+url: /kalispell/brute-audio/
 shop: electronics
 ---
