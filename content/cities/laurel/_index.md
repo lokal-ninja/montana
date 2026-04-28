@@ -1,6 +1,6 @@
 ---
 title: Laurel
 url: /laurel/
-latitude: 45.666
-longitude: -108.766
+latitude: 45.668
+longitude: -108.75
 ---
