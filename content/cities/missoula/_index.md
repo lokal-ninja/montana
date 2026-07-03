@@ -1,6 +1,6 @@
 ---
 title: Missoula
 url: /missoula/
-latitude: 46.868
-longitude: -114.02
+latitude: 46.873
+longitude: -113.997
 ---
