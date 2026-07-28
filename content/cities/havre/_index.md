@@ -1,6 +1,6 @@
 ---
 title: Havre
 url: /havre/
-latitude: 48.554
-longitude: -109.737
+latitude: 48.553
+longitude: -109.671
 ---
