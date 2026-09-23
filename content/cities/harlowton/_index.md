@@ -1,6 +1,6 @@
 ---
 title: Harlowton
 url: /harlowton/
-latitude: 46.435
-longitude: -109.831
+latitude: 46.439
+longitude: -109.829
 ---
